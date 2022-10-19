@@ -1,5 +1,4 @@
 import musicplayerclasses.Album;
-import musicplayerclasses.Artist;
 import musicplayerclasses.Song;
 
 public class Main {
@@ -18,6 +17,5 @@ public class Main {
 
         System.out.println(song1);
         //System.out.println(song1.getTitle());
-
     }
 }

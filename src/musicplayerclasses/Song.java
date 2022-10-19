@@ -1,7 +1,4 @@
 package musicplayerclasses;
-
-import java.util.ArrayList;
-
 public class Song
 {
     //properties

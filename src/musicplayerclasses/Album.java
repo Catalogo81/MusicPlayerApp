@@ -56,7 +56,6 @@ public class Album
             if(songCheck.getTitle().equals(title))
                 return songCheck;
         }
-
         return null;
     }
 
