@@ -7,8 +7,7 @@ public class Song
     private double duration;
 
     //default constructor
-    public Song() {
-    }
+    public Song() {}
 
     //non-default constructor
     public Song(String title,String artist, double duration) {

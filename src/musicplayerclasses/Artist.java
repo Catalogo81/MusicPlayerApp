@@ -34,7 +34,6 @@ public class Artist {
     //toString() method for printing to the user
     @Override
     public String toString() {
-
         return "Artist{" +
                 "artistName='" + artistName + '\'' +
                 ", genre='" + genre + '\'' +

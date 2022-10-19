@@ -62,6 +62,7 @@ public class Album
     //toString() method for printing to the user
     @Override
     public String toString() {
+
         return "Album{" +
                 "name='" + name + '\'' +
                 ", artists=" + artist +
